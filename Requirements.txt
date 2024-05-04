@@ -1,0 +1,2 @@
+XAMPP ==8.2.4-0
+Apache NetBeans IDE 18
